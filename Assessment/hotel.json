@@ -1,0 +1,20 @@
+[
+    {
+        "name": "mohith",
+        "city": "Mpl",
+        "type": "Vegeterian",
+        "cuisine": ["Indian", "chinese"]
+    },
+    {
+        "name": "kalyani",
+        "city": "Mysore",
+        "type": "Vegeterian",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "rajbhavan",
+        "city": "bangalore",
+        "type": "Vegetaian",
+        "cuisine": ["Indian"]
+    }
+]
